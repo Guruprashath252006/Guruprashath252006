@@ -58,10 +58,12 @@ I’m a passionate developer who enjoys building real-world projects, exploring 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: guruprashath25@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/guruprashath252006
-- 🌐 Portfolio Website: https://guru-portfolio-199e3.web.app/
-- 🔗 LeetCode Profile: https://leetcode.com/u/Guruprashath252006/
+
+[![Portfolio](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://guru-portfolio-199e3.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guruprashath252006)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Guruprashath252006/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guruprashath25@gmail.com)
+
 
 ---
 
