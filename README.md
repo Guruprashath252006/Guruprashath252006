@@ -26,14 +26,9 @@ I’m a passionate developer who enjoys building real-world projects, exploring 
 **Web Development**
 - HTML
 - CSS
+- Tailwind CSS
 - JavaScript
-- Node.js
-
-**AI / ML**
-- CNNs
-- ResNet
-- Image Classification
-- InceptionV3
+- React
 
 **Tools**
 - Git & GitHub
