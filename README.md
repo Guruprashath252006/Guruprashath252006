@@ -15,6 +15,10 @@
   <a href="mailto:guruprashath25@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://drive.google.com/file/d/1_Wg6bkC1__Bp_Ycd1pa_erXlbM7jcDmx/view?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" />
+</a>
+
 </p>
 
 ---
@@ -56,6 +60,12 @@ I’m a passionate developer who enjoys building real-world projects, exploring 
 - Google Colab
 - Figma
 
+---
+## 🌱 Currently Learning
+- Advanced DSA (Trees, Graphs, DP)
+- React best practices
+- Backend fundamentals
+- System design basics
 ---
 
 ## 📂 Projects
