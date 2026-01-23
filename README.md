@@ -1,4 +1,3 @@
-# Guruprashath-Github-Portfolio
 # 👋 Hi, I'm Guruprashath!
 
 🎓 Computer Science Student | 💻 Developer  
