@@ -57,11 +57,6 @@ I’m a passionate developer who enjoys building real-world projects, exploring 
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 - 📧 Email: guruprashath25@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/guruprashath252006
