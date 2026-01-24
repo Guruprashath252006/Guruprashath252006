@@ -45,7 +45,6 @@ I’m a passionate developer who enjoys building real-world projects, exploring 
 ### **Languages**
 - Python
 - C++
-- JavaScript
 
 ### **Web Development**
 - HTML
