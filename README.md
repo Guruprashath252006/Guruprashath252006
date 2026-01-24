@@ -70,12 +70,10 @@ I’m a passionate developer who enjoys building real-world projects, exploring 
 
 ## 📂 Projects
 
-### 🔹 RAG Chatbot
-- Built using LangChain and Streamlit  
-- Answers user questions interactively  
-- Deployed as a web application  
+### 🔹FitBuddy - Fitness App
+FitBuddy is a modern, high-performance fitness application featuring a sleek UI. It provides personalized workout plans, multi-profile management, and real-time training guidance. 
 
-🔗 GitHub: https://github.com/your-username/rag_chatbot  
+🔗 GitHub: https://github.com/Guruprashath252006/FitBuddy.git 
 
 ---
 
@@ -84,7 +82,7 @@ I’m a passionate developer who enjoys building real-world projects, exploring 
 - User authentication & CRUD operations  
 - Clean and responsive UI  
 
-🔗 GitHub: https://github.com/your-username/blog-website  
+🔗 GitHub: https://github.com/Guruprashath252006/internship_blogebsite.git
 
 ---
 
