@@ -72,7 +72,7 @@ I’m a passionate developer who enjoys building real-world projects, exploring 
 ### 🔹FitBuddy - Fitness App
 FitBuddy is a modern, high-performance fitness application featuring a sleek UI. It provides personalized workout plans, multi-profile management, and real-time training guidance. 
 
-🔗 GitHub: https://github.com/Guruprashath252006/FitBuddy.git 
+🔗 GitHub: https://github.com/Guruprashath252006/FitBuddy.git
 
 ---
 
