@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Typing Header -->
-  <a href="https://portfolio-guru-ebon.vercel.app/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Guru+Prashath+R;Full+Stack+Developer;B.Tech+CSE+Student+%40+SRM+IST;Passionate+about+Web+Dev+%26+AI" alt="Typing Header" /></a>
+  <a href="https://portfolio-guru-ebon.vercel.app/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+I'm+Guru+Prashath+R;Full+Stack+Developer;B.Tech+CSE+Student+%40+SRM+IST;Passionate+about+Web+Dev+%26+AI" alt="Typing Header" /></a>
 
   <p align="center">
     <strong>Full-Stack Developer • SRM IST CSE '27 (CGPA: 9.83) • Web & AI Enthusiast</strong>
